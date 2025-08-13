@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Huxley</h1>
+<h1 align="center">Hi, I'm Huxley</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Dev-Huxley/github-stats/master/generated/overview.svg#gh-dark-mode-only">
